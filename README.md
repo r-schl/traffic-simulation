@@ -7,4 +7,4 @@ This is a program that can read from files a network consisting of streets, inte
 - `simulate <number of ticks>`  simulates a number of ticks on the network that is currently loaded. 
 - `position <ID of a car>` prints information about a specified car. 
 
-For more information see [task.pdf](./task.pdf)
+For more information, see [task.pdf](./task.pdf)
